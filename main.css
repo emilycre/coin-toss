@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    padding: 10px;
+}
+
+button {
+    margin: 10px;
+}
+
+.hidden {
+    visibility: hidden;
+}
